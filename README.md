@@ -41,7 +41,7 @@ This project focuses on predicting diabetes using a clinical dataset with highly
 
 **Visualizations:**  
 - ROC Curve: `images/rf_ROC.png`  
-- Confusion Matrix: `images/rf_confusion_matric.png`  
+- Confusion Matrix: `images/rf_confusion_matrix.png`  
 - Feature Importance: `images/rf_feature_imp.png`  
 
 ---
@@ -78,7 +78,7 @@ This project focuses on predicting diabetes using a clinical dataset with highly
 - class_weight = 'balanced'  
 
 **Visualizations:**  
-- ROC Curve: `images/lgbm_roc.png`  
+- ROC Curve: `images/lgbl_roc`  
 - Confusion Matrix: `images/lgbm_confusion_matrix.png`  
 - Feature Importance: `images/lgbm_feature_imp.png`
 
